@@ -1,0 +1,1 @@
+{0: 'anemia', 1: 'leucocytosis', 2: 'leucopenia', 3: 'normal ', 4: 'thrombocytopenia', 5: 'thrombocytosis'}
