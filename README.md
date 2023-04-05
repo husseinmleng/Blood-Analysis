@@ -21,5 +21,3 @@ The final model was a random forest classifier that achieved an accuracy of 90% 
 ## Conclusion
 
 In conclusion, this project demonstrated the effectiveness of machine learning techniques in classifying blood analysis results. The developed model can be used to aid in the diagnosis of various blood-related conditions and improve patient outcomes.
-
-# any modification
